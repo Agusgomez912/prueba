@@ -1,0 +1,27 @@
+/*
+ANATOMIA DEL CSS
+
+selector{
+    propiedad: valor:
+    propiedad: valor:    
+}*/  
+
+
+body{
+    background-color:white ;
+}
+h2{
+    color: #67989A ; 
+    background-color : #  ;
+)
+p{color: #FF9553 ;
+}
+h1{
+    color: #45D44E
+}
+/* imagen */
+#foto-messi{
+   /* ancho */
+   width: 300px;px;
+   /* alto */
+   height: 300px;
